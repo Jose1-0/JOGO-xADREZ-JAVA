@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author josea
- *
- */
-module xadrez {
-}
